@@ -62,6 +62,6 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deexantbharti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/deexantbharti/](https://www.linkedin.com/in/deexant-bharti-35235527b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/DeexantBharti"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
