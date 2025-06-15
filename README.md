@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Deexant Bharti</h1>
 <h3 align="center">B.Tech CSE | MERN Stack Developer | AI Enthusiast | Competitor @ Codeforces & LeetCode</h3>
 
@@ -29,13 +28,34 @@
 
 ---
 
-### 📈 GitHub Stats
+### 💻 Languages & Frameworks
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeexantBharti&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeexantBharti&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🔧 Tools & Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit.io-00A5E5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...&logoColor=white) <!-- Approximate, no official badge -->
+
+### 🧠 Core CS Knowledge
+- Data Structures & Algorithms  
+- Object Oriented Programming (OOP)  
+- DBMS (Database Management Systems)  
+- Operating Systems  
+- Computer Networks  
 
 ---
 
