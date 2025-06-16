@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE | MERN Stack Developer | AI Enthusiast | Competitor @ Codeforces & LeetCode</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Full+Stack+Developer;AI+Tool+Builder;Clean+UI+Lover;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Full+Stack+Developer;Clean+UI+Lover;Lifelong+Learner;AI+Tool+Builder" alt="Typing SVG" />
 </p>
 
 ---
